@@ -1,0 +1,8 @@
+Multi Class Classification of X-Ray Images (normal, covid, virus)
+
+Dataset used: https://www.kaggle.com/datasets/sid321axn/covid-cxr-image-dataset-research/data
+
+Description:
+Transfer learning:
+(i) DenseNet169
+(ii) DenserNet169 + EfficientNetB3: Stacked Model
